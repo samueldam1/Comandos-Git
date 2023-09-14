@@ -3,9 +3,6 @@ Comandos de Git
 
 _Lista de los comandos de Git más utilizados_
 
-*Si te interesan mis alias de Git, puedes mirar mi `.bash_profile`, lo encontrarás aquí: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
-
---
 
 ### Conseguir y crear proyectos
 
